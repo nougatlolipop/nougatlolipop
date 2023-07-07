@@ -1,4 +1,4 @@
-<img align="center" src="https://embed.lottiefiles.com/animation/132992"/>
+<img align="center" src="https://assets2.lottiefiles.com/packages/lf20_7uJbyxfjPR.json"/>
 <h1 align="center">Hi 👋, Saya Irvan</h1>
 <h3 align="center">A passionate code addict from Indonesia :rofl:</h3>
 
