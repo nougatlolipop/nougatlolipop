@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Saya Irvan</h1>
-<h3 align="center">A passionate code addict from Indonesia</h3>:rofl:
+<h3 align="center">A passionate code addict from Indonesia :rofl:</h3>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Codeigniter, Flutter and React Native
