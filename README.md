@@ -2,7 +2,6 @@
 <h3 align="center">A passionate code addict from Indonesia :rofl:</h3>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Codeigniter, Flutter and React Native
 - 👨‍💻 &nbsp;Let’s code with me
 - ⚡ &nbsp;Fun fact: I :heart: 🐈:s and Mobile Gaming
 - 💬 Ask me about **Codeigniter, React Native & Flutter**
