@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, Saya Irvan</h1>
 <h3 align="center">A passionate code addict from Indonesia :rofl:</h3>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 👨‍💻 &nbsp;Let’s code with me
-- ⚡ &nbsp;Fun fact: I :heart: 🐈:s and Mobile Gaming
+- 🔭 I’m currently working on something cool :wink:
+- 👨‍💻 Let’s code with me
+- ⚡ Fun fact: I :heart: 🐈:s and Mobile Gaming
 - 💬 Ask me about **Codeigniter, React Native & Flutter**
 - 📫 How to reach me **august.ivan20@gmail.com**
-- ⚡ Fun fact **I :heart: 🐈:s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
