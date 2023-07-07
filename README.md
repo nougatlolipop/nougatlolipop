@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on something cool :wink:
 - 👨‍💻 Let’s code with me
-- ⚡ Fun fact: I :heart: 🐈:s and 📱:Mobile Gaming
+- ⚡ Fun fact: I :heart: 🐈s and 📱Mobile Gaming
 - 💬 Ask me about **Codeigniter, React Native & Flutter**
 - 📫 How to reach me **august.ivan20@gmail.com**
 
