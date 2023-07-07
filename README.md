@@ -11,4 +11,4 @@ This is the place where I opensource stuff and break things :rofl:
   <a href="https://www.buymeacoffee.com/nougatlolipop" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
-    <p><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nougatlolipop&hide_progress=true]" alt="Top Langs"></p>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nougatlolipop&amp;hide_progress=true" alt="Top Langs"></p>
